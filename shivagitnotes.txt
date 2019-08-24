@@ -1,0 +1,15 @@
+step 1: create file
+
+touch a.java
+
+Step 2: move the file to tracked area using git add .
+
+step 3: then commit the file into local repo using - git commit-m (message) " commiting of abc file"
+
+Step 4: to check the logs
+   git status - there the files are in currently
+   git log-- list of commits in the local repo
+
+ 
+Step 5: if a file is not needed to be commited you can use ignore.
+
